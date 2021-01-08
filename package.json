@@ -1,0 +1,25 @@
+{
+  "name": "guessmind",
+  "version": "1.0.0",
+  "description": "building CatchMind",
+  "main": "index.js",
+  "repository": "https://github.com/wnsgh605/guessmind",
+  "author": "KIM JUNHO <wnsgh605@nate.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "pug": "^3.0.0",
+    "socket.io": "^3.0.5"
+  },
+  "scripts": {
+    "dev:server": "nodemon --exec babel-node src/server"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-plugin-prettier": "^3.3.1"
+  }
+}

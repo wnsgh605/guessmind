@@ -1,2 +1,5 @@
 # guessmind
-Building game called CatchMind 
+
+Building game called CatchMind
+
+## TO DO
