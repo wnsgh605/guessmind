@@ -29,7 +29,7 @@
   "scripts": {
     "dev:server": "nodemon --exec babel-node src/server --ignore assets/ --ignore src/static",
     "dev:assets": "gulp",
-    "start": "node src/server"
+    "start": "babel-node src/server"
   },
   "devDependencies": {
     "eslint": "^7.17.0",
