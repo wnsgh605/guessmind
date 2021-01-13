@@ -6,6 +6,7 @@
   "repository": "https://github.com/wnsgh605/guessmind",
   "author": "KIM JUNHO <wnsgh605@nate.com>",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
