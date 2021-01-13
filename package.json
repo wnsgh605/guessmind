@@ -1,5 +1,4 @@
 {
-  "type": "module",
   "name": "guessmind",
   "version": "1.0.0",
   "description": "building CatchMind",
