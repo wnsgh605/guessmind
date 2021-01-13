@@ -1,5 +1,5 @@
-import { chooseWord } from "../words";
-import events from "./events";
+import { chooseWord } from "../words.js";
+import events from "./events.js";
 
 let sockets = [];
 let inProgress = false;
