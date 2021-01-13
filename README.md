@@ -9,3 +9,5 @@ Building game called CatchMind
 - nodeJS, babel via yarn
 - socketIO
 - GULP!
+
+On Heroku
