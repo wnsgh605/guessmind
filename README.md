@@ -11,3 +11,4 @@ Building game called CatchMind
 - GULP!
 
 On Heroku
+https://jun-guessmind.herokuapp.com/
