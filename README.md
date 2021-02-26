@@ -6,7 +6,7 @@ Building game called CatchMind
 
 ### TECHS
 
-- nodeJS, babel via yarn
+- nodeJS, babel
 - socketIO
 - GULP!
 
